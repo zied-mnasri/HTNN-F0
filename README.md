@@ -1,6 +1,6 @@
 A. Functions
 
-1. train_HTN_F0.m       --> Train a neural network's model based on Hilbert transform parameters to estimate F0
+1. train_HTNN_F0.m       --> Train a neural network's model based on Hilbert transform parameters to estimate F0
    
 2. eval_f0_clean_noisy.m --> Evaluate HTNN_F0 methods (Ours) and benchmarking PDA's (Crepe and YANG)
  
